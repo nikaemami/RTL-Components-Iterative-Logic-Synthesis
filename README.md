@@ -1,4 +1,4 @@
-# RTL Components-Iterative-Logic-Synthesis
+# RTL-Components-Iterative-Logic-Synthesis
 Design of a circuit that calculates the number of 1’s on its data inputs
 
 The circuit has 127 inputs, and it is built of cascadable modules in a regular structure.
